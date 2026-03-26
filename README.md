@@ -1,4 +1,4 @@
-# SE_project
+# Iitm Bs Portal Gen Ai
 
 ### This repository is to work on the May 2024 Term SE project.
 
